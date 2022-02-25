@@ -1,7 +1,6 @@
-
 public class Lab_9
 {
-    // instance variables - replace the example below with your own
+    // instance variables
     private Dreptunghi dr;
     private Cerc cr;
 
@@ -21,4 +20,7 @@ public class Lab_9
     {
         Lab_9 l = new Lab_9();
     }
+    
 }
+
+

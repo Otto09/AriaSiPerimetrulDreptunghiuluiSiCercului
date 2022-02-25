@@ -1,13 +1,10 @@
 
 /**
- * Write a description of class Dreptunghi here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Goga Octavian
  */
 public class Dreptunghi
 {
-    // instance variables - replace the example below with your own
+    // instance variables
     private int x;
     private int y;
     private int a;
@@ -31,10 +28,10 @@ public class Dreptunghi
     }
     
     /**
-     * An example of a method - replace this comment with your own
      *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
+     * @param  dx
+     * @param  dy
+     * @return   x + dx and y + dy
      */
     public void translatez(int dx, int dy)
     {
@@ -75,3 +72,4 @@ public class Dreptunghi
     }
     
 }
+

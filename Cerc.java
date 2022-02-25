@@ -1,7 +1,7 @@
 
 public class Cerc
 {
-    // instance variables - replace the example below with your own
+    // instance variables
     private int x;
     private int y;
     private int raza;
