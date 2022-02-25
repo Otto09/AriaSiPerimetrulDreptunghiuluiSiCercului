@@ -1,2 +1,2 @@
-# AriaSiPerimetrulDreptunghiuluiSiCercului
+# Aria Si Perimetrul Dreptunghiului Si Cercului
 The application has two classes, Dreptunghi and Cerc. Each of the classes has two constructors, a parameterless constructor and a parameterized constructor. The parameterless constructor initializes all class variables with 10. The following methods are added to each class: translatez(), perimetru() and arie(). Methods for the individual modification of the state variables x and y called mod_x() and mod_y() are added to the application classes. Methods that return the values of the state variables x and y named da_x() and da_y() are added to the application classes. Two objects from each class are created. Class methods are used to resize objects.
