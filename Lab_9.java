@@ -14,6 +14,8 @@ public class Lab_9
         cr = new Cerc(65, 30 ,20);
         System.out.println("Aria dreptunghiului: " + dr.arie() + 
             ", aria cercului este: " + cr.arie() );
+        System.out.println("Perimetrul dreptunghiului: " + dr.perimetru() + 
+            ", perimetrul cercului este: " + cr.perim() );
     }
 
     public static void main(String arg[])
